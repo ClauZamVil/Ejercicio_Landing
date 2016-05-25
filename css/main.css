@@ -1,0 +1,80 @@
+ul{
+	
+	display: inline-table;
+}
+
+li {
+	display: table-cell; 
+	color: grey;
+	font-family: helvetica;
+	font-size: 10px;
+	padding: 23px;
+}
+
+img{
+	width: 100px;
+	height: 60px;
+	margin-left: 20%;
+
+}
+
+.container2{
+	background-color: grey;
+}
+
+strong{
+	font-size: 20px;
+	color: white;
+	font-family: helvetica;
+
+}
+
+p{
+	font-size: 10px;
+	color: white;
+	font-family: helvetica;
+
+}
+
+.text1{
+	margin: auto;
+	height: 200px;
+	width: 300px;
+    margin-top: 20px;
+}
+
+.text2{
+	background-color: #CCCCCC;
+	border-radius: 5px 5px 5px 5px;
+	width: 200px;
+	height: 150px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.cuadro{
+	background-color: white;
+	width: 180px;
+	height: 20px;
+	margin:10px;
+
+
+
+}
+
+.boton {
+	background-color: #0080FF;
+	width: 180px;
+	height: 20px;
+	margin:10px;
+	
+}
+
+.nombre {
+	color: grey;
+	text-align: left;
+	font-size: 10px;
+}
+
+
+
